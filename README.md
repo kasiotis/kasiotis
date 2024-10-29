@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, welcome to my Profile! 👋
 
-<!--
-**kasiotis/kasiotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is a quick introduction to myself:
 
-Here are some ideas to get you started:
+- 📖 I'm a graduate of Newcastle University with a `Bachelor's Degree in Computer Science` and `Master's Degree in Data Science (with a specialization in AI)`
+- 🔭 I’m currently working on ETL pipelines for enterpise ecommerce retailers using the [Fredhopper solutions](https://www.crownpeak.com/products/product-discovery/) provided by [Crownpeak](https://www.crownpeak.com/).
+- 🌱 I’m currently learning about Large Language Models and their use cases, as well as full stack development for SaaS projects.
+- 👯 I’m a published author of a conference paper called [`Towards Energy-Aware Management of Shared Printers`](https://link.springer.com/chapter/10.1007/978-3-031-44053-3_6?).
+- 💬 Open to talk about anything related to Data Science, AI, ETLs, and the like.
+- ⚡ Fun fact: Tabs are the only acceptable way to indent your code 😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here are a few of my most proud pieces of work:
+
+- #### Exploratory Data Analyses & Statistical Analyses:
+
+- #### Machine Learning:
+
+- #### Deep Learning:
+
+- #### Data Visualizations:
+
+- #### ETLs and Data Pipelines:
+
