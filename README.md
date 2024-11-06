@@ -1,8 +1,5 @@
 ## Hi there, welcome to my Profile! 👋
 
-<div style="width: 100%;">
-  <img src="asset.svg" style="width: 100%;" alt="Click to see the source">
-</div>
 
 ### Here is a quick introduction to myself:
 
