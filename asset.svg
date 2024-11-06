@@ -20,7 +20,7 @@
         --color-link: #fef29e;
         --color-link-active: #ff4444;
 
-        height: 400px;
+        height: 300px;
         width: 100%;
         text-transform: uppercase;
         display: flex;
@@ -211,7 +211,7 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Data Scientist ~ Data Engineer</li>
+            <li>Data Scientist</li>
           </ul>
           <ul>
             <li><span class='hi'>👋</span></li>
