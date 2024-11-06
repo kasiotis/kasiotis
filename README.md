@@ -1,4 +1,4 @@
-<div style="width: 100%;">
+<div style="width: 100%; height: 100%">
     <img src="asset.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
