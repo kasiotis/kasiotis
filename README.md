@@ -1,7 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/kasiotis/kasiotis/blame/main/asset.svg">
     <img src="asset.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
 </div>
 
 ### Here is a quick introduction to myself:
