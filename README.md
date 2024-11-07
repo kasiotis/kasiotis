@@ -24,6 +24,7 @@
 </p>
 
 ### Machine Learning:
+https://github.com/kasiotis/bird-image-classifier-task
 *Tech Stack*
 
 
