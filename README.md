@@ -24,12 +24,12 @@
 </p>
 
 ### Machine Learning:
-https://github.com/kasiotis/bird-image-classifier-task
 *Tech Stack*
 
 
 ### Deep Learning:
-*Tech Stack*
+- https://github.com/kasiotis/bird-image-classifier-task
+  - *Tech Stack*
 
 
 ### Data Visualizations:
