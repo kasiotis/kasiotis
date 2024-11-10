@@ -23,8 +23,6 @@
         <li>
             <p align="left">
                 Tech Stack:
-                
-            </p>
         </li>
     </ul>
 </ol>
