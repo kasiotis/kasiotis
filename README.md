@@ -37,7 +37,44 @@
 
 
 #### Deep Learning:
+<ol>
+    <li>
+        <a href="https://github.com/kasiotis/language-model-task/tree/master" target="_blank" rel="noreferrer">Language Model development using LSTM</a>
+    </li>
+    <ul>
+        <li>
+            <p>The objective of this project was to train a word-level language model using an LSTM network and the text from the book “Poirot Investigates” by Agatha Christie.</p>
+        </li>
+        <li>
+            <p align="left">
+                Tech Stack:
+                <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+                <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+            </p>
+        </li>
+    </ul>
+</ol>
 
+#### LLM application:
+<ol>
+    <li>
+        <a href="https://github.com/kasiotis/resume-to-job-checker/tree/main" target="_blank" rel="noreferrer">LLM resume checking application</a>
+    </li>
+    <ul>
+        <li>
+            <p>LLM application that takes in a number of CVs and compares them to a Job Posting in order to find the best profile for the job.</p>
+        </li>
+        <li>
+            <p align="left">
+                Tech Stack:
+                <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+                <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+            </p>
+        </li>
+    </ul>
+</ol>
 
 #### Data Visualizations:
 
